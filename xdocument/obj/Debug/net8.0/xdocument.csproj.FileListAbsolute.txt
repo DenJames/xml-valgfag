@@ -1,0 +1,14 @@
+C:\Users\denni\RiderProjects\xdocument\xdocument\bin\Debug\net8.0\xdocument.exe
+C:\Users\denni\RiderProjects\xdocument\xdocument\bin\Debug\net8.0\xdocument.deps.json
+C:\Users\denni\RiderProjects\xdocument\xdocument\bin\Debug\net8.0\xdocument.runtimeconfig.json
+C:\Users\denni\RiderProjects\xdocument\xdocument\bin\Debug\net8.0\xdocument.dll
+C:\Users\denni\RiderProjects\xdocument\xdocument\bin\Debug\net8.0\xdocument.pdb
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.AssemblyInfoInputs.cache
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.AssemblyInfo.cs
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.csproj.CoreCompileInputs.cache
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.dll
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\refint\xdocument.dll
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.pdb
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\xdocument.genruntimeconfig.cache
+C:\Users\denni\RiderProjects\xdocument\xdocument\obj\Debug\net8.0\ref\xdocument.dll

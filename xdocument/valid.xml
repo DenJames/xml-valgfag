@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<InvoiceExport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MadeBy>John Doe</MadeBy>
+  <Clubs>
+    <Name>Sports Club A</Name>
+    <Address>123 Main St</Address>
+    <Member>
+      <Name>Mr. John Smith</Name>
+      <Address>456 Elm St</Address>
+      <Invoice>
+        <TotalAmount>100.5</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 1</ProductName>
+          <ProductDescription>Description 1</ProductDescription>
+          <Amount>10.5</Amount>
+        </InvoiceLine>
+        <InvoiceLine>
+          <ProductName>Product 2</ProductName>
+          <ProductDescription>Description 2</ProductDescription>
+          <Amount>90</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+    <Member>
+      <Name>Mrs. Jane Doe</Name>
+      <Address>789 Oak St</Address>
+      <Invoice>
+        <TotalAmount>200.75</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 3</ProductName>
+          <ProductDescription>Description 3</ProductDescription>
+          <Amount>200.75</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+  </Clubs>
+  <Clubs>
+    <Name>Sports Club B</Name>
+    <Address>987 Pine St</Address>
+    <Member>
+      <Name>Mr. Alan Brown</Name>
+      <Address>654 Maple St</Address>
+      <Invoice>
+        <TotalAmount>150</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 4</ProductName>
+          <ProductDescription>Description 4</ProductDescription>
+          <Amount>150</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+  </Clubs>
+</InvoiceExport>

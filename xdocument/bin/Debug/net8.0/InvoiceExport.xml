@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InvoiceExport>
+  <MadeBy>John Smith</MadeBy>
+  <Club>
+    <Name>Super Sports Club</Name>
+    <Address>Livøvej 25b</Address>
+    <Member>
+      <Name>Jane Doe</Name>
+      <Address>Someone street 1</Address>
+      <Invoice>
+        <TotalAmount>300</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 1</ProductName>
+          <ProductDescription>Description 1</ProductDescription>
+          <Amount>100</Amount>
+        </InvoiceLine>
+        <InvoiceLine>
+          <ProductName>Product 2</ProductName>
+          <ProductDescription>Description 2</ProductDescription>
+          <Amount>200</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+    <Member>
+      <Name>John Doe</Name>
+      <Address>Someone street 2</Address>
+      <Invoice>
+        <TotalAmount>300</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 1</ProductName>
+          <ProductDescription>Description 1</ProductDescription>
+          <Amount>100</Amount>
+        </InvoiceLine>
+        <InvoiceLine>
+          <ProductName>Product 2</ProductName>
+          <ProductDescription>Description 2</ProductDescription>
+          <Amount>200</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+  </Club>
+  <Club>
+    <Name>Another Club</Name>
+    <Address>H.C Andersens vej 1</Address>
+    <Member>
+      <Name>Jane Doe</Name>
+      <Address>Someone street 1</Address>
+      <Invoice>
+        <TotalAmount>300</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 1</ProductName>
+          <ProductDescription>Description 1</ProductDescription>
+          <Amount>100</Amount>
+        </InvoiceLine>
+        <InvoiceLine>
+          <ProductName>Product 2</ProductName>
+          <ProductDescription>Description 2</ProductDescription>
+          <Amount>200</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+    <Member>
+      <Name>John Doe</Name>
+      <Address>Someone street 2</Address>
+      <Invoice>
+        <TotalAmount>300</TotalAmount>
+        <InvoiceLine>
+          <ProductName>Product 1</ProductName>
+          <ProductDescription>Description 1</ProductDescription>
+          <Amount>100</Amount>
+        </InvoiceLine>
+        <InvoiceLine>
+          <ProductName>Product 2</ProductName>
+          <ProductDescription>Description 2</ProductDescription>
+          <Amount>200</Amount>
+        </InvoiceLine>
+      </Invoice>
+    </Member>
+  </Club>
+</InvoiceExport>
